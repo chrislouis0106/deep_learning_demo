@@ -1,1 +1,1 @@
-# deep_learning_demo
+# Deep Learning Mininum Cases include visualization and debug
